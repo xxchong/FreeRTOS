@@ -1,0 +1,13 @@
+lvgl_lcd\lv_tlsf.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\lv_tlsf.c
+lvgl_lcd\lv_tlsf.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+lvgl_lcd\lv_tlsf.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+lvgl_lcd\lv_tlsf.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+lvgl_lcd\lv_tlsf.o: ../BSP/Middlewares/LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+lvgl_lcd\lv_tlsf.o: D:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+lvgl_lcd\lv_tlsf.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\lv_tlsf.h
+lvgl_lcd\lv_tlsf.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+lvgl_lcd\lv_tlsf.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\lv_mem.h
+lvgl_lcd\lv_tlsf.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+lvgl_lcd\lv_tlsf.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+lvgl_lcd\lv_tlsf.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\lv_log.h
+lvgl_lcd\lv_tlsf.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\lv_assert.h

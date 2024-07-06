@@ -1,0 +1,16 @@
+lvgl_lcd\lv_font.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\font\lv_font.c
+lvgl_lcd\lv_font.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\font\lv_font.h
+lvgl_lcd\lv_font.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\font\../lv_conf_internal.h
+lvgl_lcd\lv_font.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+lvgl_lcd\lv_font.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\font\../lv_conf_kconfig.h
+lvgl_lcd\lv_font.o: ../BSP/Middlewares/LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+lvgl_lcd\lv_font.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+lvgl_lcd\lv_font.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+lvgl_lcd\lv_font.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\font\lv_symbol_def.h
+lvgl_lcd\lv_font.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_area.h
+lvgl_lcd\lv_font.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_utils.h
+lvgl_lcd\lv_font.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_log.h
+lvgl_lcd\lv_font.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_types.h
+lvgl_lcd\lv_font.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_assert.h
+lvgl_lcd\lv_font.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_mem.h
+lvgl_lcd\lv_font.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h

@@ -1,0 +1,17 @@
+lvgl_lcd\lv_bidi.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\lv_bidi.c
+lvgl_lcd\lv_bidi.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+lvgl_lcd\lv_bidi.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\lv_bidi.h
+lvgl_lcd\lv_bidi.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+lvgl_lcd\lv_bidi.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+lvgl_lcd\lv_bidi.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+lvgl_lcd\lv_bidi.o: ../BSP/Middlewares/LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+lvgl_lcd\lv_bidi.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+lvgl_lcd\lv_bidi.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\lv_txt.h
+lvgl_lcd\lv_bidi.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+lvgl_lcd\lv_bidi.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\lv_area.h
+lvgl_lcd\lv_bidi.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\../font/lv_font.h
+lvgl_lcd\lv_bidi.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\../font/lv_symbol_def.h
+lvgl_lcd\lv_bidi.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\lv_printf.h
+lvgl_lcd\lv_bidi.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\lv_types.h
+lvgl_lcd\lv_bidi.o: ..\BSP\Middlewares\LVGL\GUI\lvgl\src\misc\../misc/lv_mem.h
+lvgl_lcd\lv_bidi.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
